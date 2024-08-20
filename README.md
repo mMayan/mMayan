@@ -4,7 +4,7 @@
 
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas.
 - 💼 Procurando a primeira experiência de estágio.
-- 💻 Aprendendo Python e realizando projetos pessoais
+- 💻 Aprendendo Python e realizando projetos pessoais.
 
 ##
 
